@@ -4,3 +4,9 @@
 
 ## This is an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## This is a code
+```
+print("Hello World")
+>>>Hello World
+```
